@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaiqueMarconi&show_icons=true&theme=tokyonight)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaiqueMarconi&repo=github-readme-stats)](https://github.com/CaiqueMarconi/github-readme-stats)
+
 
 
 
