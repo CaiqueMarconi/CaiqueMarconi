@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Arrobank**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CaiqueMarconi](https://github.com/CaiqueMarconi)
-
 - 📫 How to reach me **caiquedavs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
