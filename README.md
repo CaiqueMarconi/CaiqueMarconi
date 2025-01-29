@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caique Marconi</h1>
 <h3 align="center">A passionate Dev Mobile</h3>
 
-- 🔭 I’m currently working on **Arrobank**
+- 🔭 I’m currently working on **Senior Sistemas**
 
-- 📫 How to reach me **caiquedavs@gmail.com**
+- 📫 How to reach me **caiquedavs@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
